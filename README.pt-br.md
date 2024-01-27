@@ -1,4 +1,5 @@
 # Desafio Tunts.Rocks 2024
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ellianw/TuntsRocks2024/blob/main/README.md)
 
 Desafio tecnico do processo seletivo da Tunts.Rocks.
 
